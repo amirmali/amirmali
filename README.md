@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amirmali
 - 👀 I’m interested in infosec, computing, cyber-physical systems, and AI
-- 🌱 I’m currently learning offensive security
+- 🌱 I’m currently learning about offsec
 - 💞️ I’m looking to collaborate on infosec-related projects
 - 📫 How to reach me via email at am-ali@live.com
 
