@@ -2,7 +2,7 @@
 - 👀 I’m interested in infosec, computing, cyber-physical systems, and AI
 - 🌱 I’m currently learning about offsec
 - 💞️ I’m looking to collaborate on infosec-related projects
-- 📫 How to reach me via email at hello@amirmali.com
+- 📫 I can be reached via email at am-ali@live.com
 
 <!---
 amirmali/amirmali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
