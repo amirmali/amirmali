@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amirmali
 - 👀 I’m interested in all things computing, infosec, cyber-physical systems, and AI
 - 🌱 I’m currently learning about pentesting and distributed systems
-- 💞️ I’m looking to collaborate on infosec-related projects
+<!-- 💞️ I’m looking to collaborate on infosec-related projects-->
 - 📫 I can be reached via email at am-ali@live.com
 
 <!---
