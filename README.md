@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amirmali
+<!--- 👋 Hi, I’m @amirmali
 - 👀 I’m interested in all things computing and infosec
 - 🌱 I’m currently learning about network and cyber-physical systems security<!-- 💞️ I’m looking to collaborate on infosec-related projects-->
 
